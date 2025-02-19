@@ -1,9 +1,12 @@
 <samp>
 
   <p align="left">「</p>
-  <div align="center">
+  <div align="center">    
+    
     ![Hi there! I'm Carol](https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=1f2328&lines=Hi+there!;I'm+Carol#gh-light-mode-only)
-    ![Hi there! I'm Carol](https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=f0f6fc&lines=Hi+there!;I'm+Carol#gh-dark-mode-only)    
+    
+    ![Hi there! I'm Carol](https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=f0f6fc&lines=Hi+there!;I'm+Carol#gh-dark-mode-only)   
+    
     <p>· Psychology graduate</p>
     <p>· IT and UX Design student</p>
     <p>· Based in Brazil</p>
