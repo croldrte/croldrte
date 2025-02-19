@@ -1,23 +1,15 @@
 <samp>
 
   <p align="left">「</p>
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none;">
-        <img src="https://i.pinimg.com/originals/2e/48/6e/2e486e058d4e9921f2aec14c22f28d91.gif" alt="test">
-      </td> 
-      <td style="border: none;">
-        <picture decoding="async" loading="lazy">
-          <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=17&duration=2000&pause=500&color=1f2328&width=435&lines=Hi+there!;I'm+Carol">
-          <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=17&duration=2000&pause=500&color=f0f6fc&width=435&lines=Hi+there!;I'm+Carol">
-          <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=17&duration=2000&pause=500&color=1f2328&width=435&lines=Hi+there!;I'm+Carol">
-        </picture>
-          <p>· Psychology graduate</p>
-          <p>· IT and UX Design student</p>
-          <p>· Based in Brazil</p>
-      </td style="border: none;">
-    </tr>
-  </table>
+  <img align="left" src="https://f2.toyhou.se/file/f2-toyhou-se/images/77036967_8LcpLVyKWHtvg2H.gif" width="250" height="auto" />
+  <picture decoding="async" loading="lazy">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=1f2328&lines=Hi+there!;I'm+Carol">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=f0f6fc&lines=Hi+there!;I'm+Carol">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=1f2328&lines=Hi+there!;I'm+Carol">
+  </picture>
+  <p>· Psychology graduate</p>
+  <p>· IT and UX Design student</p>
+  <p>· Based in Brazil</p>
   <p align="right">」</p>
 
   <h4>★ Skills</h4>
