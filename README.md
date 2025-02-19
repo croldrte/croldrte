@@ -1,16 +1,25 @@
 <samp>
 
 <p align="left">「</p>
-<h3 align="center">hi there! ★</h3>
-<p align="center">i'm Carol, psychology graduate, it and ux design student.</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="text-align: left;">
+    <img src="https://i.pinimg.com/originals/2e/48/6e/2e486e058d4e9921f2aec14c22f28d91.gif" alt="test">
+  </div>
+  <div style="text-align: left;">
+    <h3>Hi there!</h3>
+    <p>★ I'm Carol</p>
+    <p>★ Psychology graduate</p>
+    <p>★ IT and UX Design student</p>
+  </div>
+</div>
 <p align="right">」</p>
 
-<div align="center">
+<h4>🛠️ Skills</h4>
 
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![C#](https://img.shields.io/badge/c%23-953CAD.svg?style=for-the-badge&logo=csharp&logoColor=white)![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/illustrator-FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=330000)![Adobe Photoshop](https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=001E36)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![C#](https://img.shields.io/badge/c%23-953CAD.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/illustrator-FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=330000) ![Adobe Photoshop](https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=001E36)
 
-![croldrte's GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=croldrte&screen_effect=true&dithering=true&background=linear-gradient%28140deg%2C+%232e222fFF+0%25%2C+%23a884f3FF+100%25%29+&color=%23ffffffFF)
+<h4>📊 Stats</h4>
 
-</div>
+ ![croldrte's GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=croldrte&screen_effect=true&dithering=true&background=linear-gradient%28140deg%2C+%232e222fFF+0%25%2C+%23a884f3FF+100%25%29+&color=%23ffffffFF)
 
 </samp>
