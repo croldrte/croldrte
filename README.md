@@ -2,8 +2,8 @@
 
   <p align="left">「</p>
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=1f2328&lines=Hi+there!;I'm+Carol#gh-light-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=f0f6fc&lines=Hi+there!;I'm+Carol#gh-dark-mode-only">
+    ![Hi there! I'm Carol](https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=1f2328&lines=Hi+there!;I'm+Carol#gh-light-mode-only)
+    ![Hi there! I'm Carol](https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=f0f6fc&lines=Hi+there!;I'm+Carol#gh-dark-mode-only)    
     <p>· Psychology graduate</p>
     <p>· IT and UX Design student</p>
     <p>· Based in Brazil</p>
@@ -16,6 +16,6 @@
 
 <h4>★ Stats</h4>
 
-![croldrte's GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=croldrte&screen_effect=true&dithering=true&background=linear-gradient%28140deg%2C+%232e222fFF+0%25%2C+%23a884f3FF+100%25%29+&color=%23ffffffFF)
+![Carol's GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=croldrte&screen_effect=true&dithering=true&background=linear-gradient%28140deg%2C+%232e222fFF+0%25%2C+%23a884f3FF+100%25%29+&color=%23ffffffFF)
 
 </samp>
