@@ -2,11 +2,8 @@
 
   <p align="left">「</p>
   <div align="center">
-    <picture decoding="async" loading="lazy">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=1f2328&lines=Hi+there!;I'm+Carol">
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=f0f6fc&lines=Hi+there!;I'm+Carol">
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=1f2328&lines=Hi+there!;I'm+Carol">
-    </picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=1f2328&lines=Hi+there!;I'm+Carol#gh-light-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=18&duration=2000&pause=500&color=f0f6fc&lines=Hi+there!;I'm+Carol#gh-dark-mode-only">
     <p>· Psychology graduate</p>
     <p>· IT and UX Design student</p>
     <p>· Based in Brazil</p>
@@ -15,7 +12,7 @@
 
 <h4>★ Skills</h4>
 
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![C#](https://img.shields.io/badge/c%23-953CAD.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/illustrator-FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=330000) ![Adobe Photoshop](https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=001E36)
+![HTML5](https://img.shields.io/badge/html5-21255A.svg?style=for-the-badge&logo=html5&logoColor=AF96F1) ![CSS3](https://img.shields.io/badge/css3-21255A.svg?style=for-the-badge&logo=css3&logoColor=AF96F1) ![JavaScript](https://img.shields.io/badge/javascript-21255A.svg?style=for-the-badge&logo=javascript&logoColor=AF96F1) ![Bootstrap](https://img.shields.io/badge/bootstrap-21255A.svg?style=for-the-badge&logo=bootstrap&logoColor=AF96F1) ![C#](https://img.shields.io/badge/c%23-21255A.svg?style=for-the-badge&logo=csharp&logoColor=AF96F1) ![.NET](https://img.shields.io/badge/.NET-21255A?style=for-the-badge&logo=.net&logoColor=AF96F1) ![Illustrator](https://img.shields.io/badge/illustrator-21255A.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=AF96F1) ![Photoshop](https://img.shields.io/badge/photoshop-21255A.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=AF96F1)
 
 <h4>★ Stats</h4>
 
