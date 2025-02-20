@@ -14,7 +14,6 @@
   <p align="right">」</p>
 
   <h4>★ Skills</h4>
-
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/html5-f0f6fc.svg?style=for-the-badge&logo=html5&logoColor=A477BB">
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=AF96F1">
@@ -57,10 +56,9 @@
   </picture>
 
   <h4>★ Stats</h4>
-
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=croldrte&screen_effect=true&dithering=true&theme=fuji&color=black">
-    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=croldrte&screen_effect=true&dithering=true&theme=fuji&color=f0f6fc">
+    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=croldrte&screen_effect=true&dithering=true&theme=fuji">
     <img alt="Carol's GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=croldrte&screen_effect=true&dithering=true&theme=fuji&color=black">
   </picture>
 
