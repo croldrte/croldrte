@@ -3,9 +3,9 @@
   <p align="left">「</p>
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=17&duration=1500&pause=500&color=1f2328&center=true&lines=Hi+there!;I'm+Carol">
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=17&duration=1500&pause=500&color=f0f6fc&center=true&lines=Hi+there!;I'm+Carol">
-      <img alt="Hi there! I'm Carol" src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=17&duration=1500&pause=500&color=1f2328&center=true&lines=Hi+there!;I'm+Carol">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=17&duration=1500&pause=500&color=1f2328&center=true&width=97&lines=Hi+there!;I'm+Carol">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=17&duration=1500&pause=500&color=f0f6fc&center=true&width=97&lines=Hi+there!;I'm+Carol">
+      <img alt="Hi there! I'm Carol" src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=17&duration=1500&pause=500&color=1f2328&center=true&width=97&lines=Hi+there!;I'm+Carol">
     </picture>
     <p>· Psychology graduate</p>
     <p>· IT and UX Design student</p>
